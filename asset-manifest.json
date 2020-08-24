@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-c19-tracker/static/css/main.c95acbe6.chunk.css",
+    "main.js": "/react-c19-tracker/static/js/main.a4650054.chunk.js",
+    "main.js.map": "/react-c19-tracker/static/js/main.a4650054.chunk.js.map",
+    "runtime-main.js": "/react-c19-tracker/static/js/runtime-main.744aa98e.js",
+    "runtime-main.js.map": "/react-c19-tracker/static/js/runtime-main.744aa98e.js.map",
+    "static/js/2.6779b2fe.chunk.js": "/react-c19-tracker/static/js/2.6779b2fe.chunk.js",
+    "static/js/2.6779b2fe.chunk.js.map": "/react-c19-tracker/static/js/2.6779b2fe.chunk.js.map",
+    "index.html": "/react-c19-tracker/index.html",
+    "precache-manifest.1e66806b9b5f6f112dee35d380a10a20.js": "/react-c19-tracker/precache-manifest.1e66806b9b5f6f112dee35d380a10a20.js",
+    "service-worker.js": "/react-c19-tracker/service-worker.js",
+    "static/css/main.c95acbe6.chunk.css.map": "/react-c19-tracker/static/css/main.c95acbe6.chunk.css.map",
+    "static/js/2.6779b2fe.chunk.js.LICENSE.txt": "/react-c19-tracker/static/js/2.6779b2fe.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/react-c19-tracker/static/media/image.d7265326.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.744aa98e.js",
+    "static/js/2.6779b2fe.chunk.js",
+    "static/css/main.c95acbe6.chunk.css",
+    "static/js/main.a4650054.chunk.js"
+  ]
+}
